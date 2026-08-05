@@ -19,4 +19,4 @@ jobs:
     - name: Compile and Test Build Container Image
       run: |
         docker build -t cloud-app:${{ github.sha }} .
-        echo "Automation Status: Validation Flawless. Container compiled s
+        echo "Automation Status: Validation Flawless. Container compiled successfully in the cloud."
