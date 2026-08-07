@@ -1,4 +1,4 @@
-hcl# =====================================================================
+# =====================================================================
 # CERTIFICATION SCENARIO 2: MULTI-ACCOUNT PIPELINE ARTIFACT SHARING
 # COMPONENT: SECURE ENCRYPTED CROSS-ACCOUNT STORAGE & IDENTITY EXCHANGE
 # =====================================================================
